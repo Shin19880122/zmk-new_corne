@@ -100,7 +100,7 @@ layers:
   SYMBOL:
   - {t: '$$mdi:transfer$$', type: trans}
   - '!'
-  - '@'
+  - '?'
   - '#'
   - $
   - '%'

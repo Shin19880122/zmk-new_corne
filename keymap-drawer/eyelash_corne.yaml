@@ -196,3 +196,6 @@ layers:
   - {type: held alternate}
   - {t: '$$mdi:transfer$$', type: trans}
   - BT CLR ALL
+combos:
+- p: [14, 15]
+  k: $$mdi:keyboard-space$$

@@ -61,7 +61,7 @@ layers:
   - {t: '8', s: '*'}
   - {t: '9', s: (}
   - '@'
-  - \
+  - {t: '-', s: _}
   - {t: '$$mdi:backspace$$', type: backspace}
   - {t: '`', s: '~'}
   - {t: '$$mdi:transfer$$', type: trans}

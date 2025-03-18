@@ -97,7 +97,7 @@ layers:
   - $$mdi:keyboard-space$$
   - $$mdi:apple-keyboard-option$$
   - {t: '0', s: )}
-  - '3'
+  - .
   SYMBOL:
   - $$mdi:apple-keyboard-caps$$
   - '!'

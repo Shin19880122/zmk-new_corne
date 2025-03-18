@@ -52,7 +52,7 @@ layers:
   NUMBER:
   - $$mdi:keyboard-esc$$
   - '!'
-  - '"'
+  - '@'
   - '#'
   - '%'
   - '&'
@@ -60,7 +60,7 @@ layers:
   - {t: '7', s: '&'}
   - {t: '8', s: '*'}
   - {t: '9', s: (}
-  - '@'
+  - {t: '[', s: '{'}
   - {t: '-', s: _}
   - {t: '$$mdi:backspace$$', type: backspace}
   - {t: '`', s: '~'}

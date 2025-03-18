@@ -78,7 +78,7 @@ layers:
   - ':'
   - $$mdi:arrow-up-bold$$
   - _
-  - $$mdi:apple-keyboard-control$$
+  - $$mdi:apple-keyboard-shift$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:mouse-right-click-outline$$

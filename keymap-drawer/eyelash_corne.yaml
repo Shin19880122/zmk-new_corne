@@ -199,3 +199,5 @@ layers:
 combos:
 - p: [14, 15]
   k: $$mdi:keyboard-space$$
+- p: [18, 16]
+  k: N

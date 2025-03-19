@@ -62,6 +62,11 @@
             bindings = <&kp N>;
             key-positions = <18 16>;
         };
+
+        languageShortcut {
+            bindings = <&kp GRAVE>;
+            key-positions = <1 13>;
+        };
     };
 
     keymap {

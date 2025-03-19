@@ -42,7 +42,7 @@ layers:
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, s: '?'}
-  - $$mdi:keyboard-esc$$
+  - {t: Alt+`, s: Alt+~}
   - $$mdi:apple-keyboard-option$$
   - NUMBER
   - {t: '$$mdi:keyboard-space$$', h: Fn}
@@ -201,5 +201,3 @@ combos:
   k: $$mdi:keyboard-space$$
 - p: [18, 16]
   k: N
-- p: [1, 13]
-  k: {t: '`', s: '~'}

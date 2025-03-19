@@ -139,8 +139,8 @@ layers:
   - {t: '-', s: _}
   - '{'
   - '}'
+  - '?'
   - '|'
-  - _
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:keyboard-space$$

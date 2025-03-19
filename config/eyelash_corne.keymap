@@ -89,9 +89,9 @@
         raise_layer {
             display-name = "SYMBOL";
             bindings = <
-&kp CAPSLOCK     &kp EXCL  &kp QUESTION  &kp HASH   &kp DLLR   &kp PRCNT                            &mmv MOVE_UP                     &kp EQUAL             &kp AMPS               &kp MINUS     &kp AT_SIGN  &kp SLASH  &kp BSPC
-&kp LEFT_SHIFT   &trans    &mkp LCLK     &mkp MCLK  &mkp RCLK  &mkp MB4             &mmv MOVE_LEFT  &mkp LCLK       &mmv MOVE_RIGHT  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LBKT      &kp RBKT     &kp BSLH   &kp TILDE
-&kp PRINTSCREEN  &trans    &trans        &none      &none      &mkp MB5   &trans                    &mmv MOVE_DOWN                   &kp PLUS              &kp MINUS              &kp LBRC      &kp RBRC     &kp PIPE   &kp UNDER
+&kp CAPSLOCK     &kp EXCL  &kp QUESTION  &kp HASH   &kp DLLR   &kp PRCNT                            &mmv MOVE_UP                     &kp EQUAL             &kp AMPS               &kp MINUS     &kp AT_SIGN  &kp SLASH     &kp BSPC
+&kp LEFT_SHIFT   &trans    &mkp LCLK     &mkp MCLK  &mkp RCLK  &mkp MB4             &mmv MOVE_LEFT  &mkp LCLK       &mmv MOVE_RIGHT  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LBKT      &kp RBKT     &kp BSLH      &kp TILDE
+&kp PRINTSCREEN  &trans    &trans        &none      &none      &mkp MB5   &trans                    &mmv MOVE_DOWN                   &kp PLUS              &kp MINUS              &kp LBRC      &kp RBRC     &kp QUESTION  &kp PIPE
                                          &trans     &trans     &kp SPACE                                                             &kp RET               &trans                 &kp ASTERISK
             >;
 

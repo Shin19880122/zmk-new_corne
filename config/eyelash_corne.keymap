@@ -57,6 +57,11 @@
             bindings = <&kp SPACE>;
             key-positions = <14 15>;
         };
+
+        Nshortcut {
+            bindings = <&kp N>;
+            key-positions = <18 16>;
+        };
     };
 
     keymap {

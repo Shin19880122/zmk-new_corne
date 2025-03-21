@@ -110,7 +110,7 @@ layers:
   - '&'
   - {t: '-', s: _}
   - '@'
-  - {t: /, s: '?'}
+  - $$mdi:backspace-reverse-outline$$
   - {t: '$$mdi:backspace$$', type: backspace}
   - $$mdi:apple-keyboard-shift$$
   - {t: '$$mdi:transfer$$', type: trans}

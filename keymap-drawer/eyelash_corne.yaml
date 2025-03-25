@@ -46,7 +46,7 @@ layers:
   - $$mdi:apple-keyboard-option$$
   - NUMBER
   - {t: '$$mdi:keyboard-space$$', h: Fn}
-  - {t: '$$mdi:keyboard-return$$', h: Fn}
+  - {t: D, h: Fn}
   - SYMBOL
   - Ctl+$$mdi:keyboard-space$$
   NUMBER:

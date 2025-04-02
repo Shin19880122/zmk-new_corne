@@ -161,12 +161,12 @@ layers:
   - F10
   - F11
   - F12
-  - '&bl BL_ON'
+  - $$mdi:apple-keyboard-shift$$
   - RGB ON
   - $$mdi:mouse-left-click-outline$$
   - $$mdi:mouse-scroll-wheel$$
   - $$mdi:mouse-right-click-outline$$
-  - '&mkp MB4'
+  - '&bl BL_ON'
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
@@ -176,12 +176,12 @@ layers:
   - $$mdi:mouse-right-click-outline$$
   - PRINTSCREEN
   - {t: '$$mdi:backspace$$', type: backspace}
-  - '&bl BL_OFF'
+  - $$mdi:apple-keyboard-shift$$
   - RGB OFF
   - '&bl BL_INC'
   - '&bl BL_DEC'
   - {t: '$$mdi:transfer$$', type: trans}
-  - '&mkp MB5'
+  - '&bl BL_OFF'
   - $$mdi:volume-off$$
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - {h: '1', s: '$$mdi:bluetooth-connect$$'}

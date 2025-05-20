@@ -62,6 +62,21 @@
             bindings = <&kp N>;
             key-positions = <18 16>;
         };
+
+        RightClick {
+            bindings = <&mkp RCLK>;
+            key-positions = <23 24>;
+        };
+
+        UPscroll {
+            bindings = <&msc SCRL_UP>;
+            key-positions = <22 23>;
+        };
+
+        Downscroll {
+            bindings = <&msc SCRL_DOWN>;
+            key-positions = <36 37>;
+        };
     };
 
     keymap {

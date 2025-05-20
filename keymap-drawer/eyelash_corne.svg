@@ -559,6 +559,18 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="238" y="78" width="28" height="26" class="combo"/>
 <text x="252" y="91" class="combo tap">N</text>
 </g>
+<g class="combo combopos-2">
+<rect rx="6" ry="6" x="742" y="74" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="747" y="78" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+</g>
+<g class="combo combopos-3">
+<rect rx="6" ry="6" x="686" y="81" width="28" height="26" class="combo"/>
+<use href="#mdi:pan-up" xlink:href="#mdi:pan-up" x="691" y="85" height="18" width="18.0" class="combo tap glyph mdi:pan-up"/>
+</g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="686" y="137" width="28" height="26" class="combo"/>
+<use href="#mdi:pan-down" xlink:href="#mdi:pan-down" x="691" y="141" height="18" width="18.0" class="combo tap glyph mdi:pan-down"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 318)" class="layer-NUMBER">
@@ -826,6 +838,18 @@ rect.held, rect.combo.held {
 <path d="M252,91 l-37,-4" class="combo"/>
 <rect rx="6" ry="6" x="238" y="78" width="28" height="26" class="combo"/>
 <text x="252" y="91" class="combo tap">N</text>
+</g>
+<g class="combo combopos-2">
+<rect rx="6" ry="6" x="742" y="74" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="747" y="78" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+</g>
+<g class="combo combopos-3">
+<rect rx="6" ry="6" x="686" y="81" width="28" height="26" class="combo"/>
+<use href="#mdi:pan-up" xlink:href="#mdi:pan-up" x="691" y="85" height="18" width="18.0" class="combo tap glyph mdi:pan-up"/>
+</g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="686" y="137" width="28" height="26" class="combo"/>
+<use href="#mdi:pan-down" xlink:href="#mdi:pan-down" x="691" y="141" height="18" width="18.0" class="combo tap glyph mdi:pan-down"/>
 </g>
 </g>
 </g>
@@ -1097,6 +1121,18 @@ rect.held, rect.combo.held {
 <path d="M252,91 l-37,-4" class="combo"/>
 <rect rx="6" ry="6" x="238" y="78" width="28" height="26" class="combo"/>
 <text x="252" y="91" class="combo tap">N</text>
+</g>
+<g class="combo combopos-2">
+<rect rx="6" ry="6" x="742" y="74" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="747" y="78" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+</g>
+<g class="combo combopos-3">
+<rect rx="6" ry="6" x="686" y="81" width="28" height="26" class="combo"/>
+<use href="#mdi:pan-up" xlink:href="#mdi:pan-up" x="691" y="85" height="18" width="18.0" class="combo tap glyph mdi:pan-up"/>
+</g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="686" y="137" width="28" height="26" class="combo"/>
+<use href="#mdi:pan-down" xlink:href="#mdi:pan-down" x="691" y="141" height="18" width="18.0" class="combo tap glyph mdi:pan-down"/>
 </g>
 </g>
 </g>
@@ -1373,6 +1409,18 @@ rect.held, rect.combo.held {
 <path d="M252,91 l-37,-4" class="combo"/>
 <rect rx="6" ry="6" x="238" y="78" width="28" height="26" class="combo"/>
 <text x="252" y="91" class="combo tap">N</text>
+</g>
+<g class="combo combopos-2">
+<rect rx="6" ry="6" x="742" y="74" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="747" y="78" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+</g>
+<g class="combo combopos-3">
+<rect rx="6" ry="6" x="686" y="81" width="28" height="26" class="combo"/>
+<use href="#mdi:pan-up" xlink:href="#mdi:pan-up" x="691" y="85" height="18" width="18.0" class="combo tap glyph mdi:pan-up"/>
+</g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="686" y="137" width="28" height="26" class="combo"/>
+<use href="#mdi:pan-down" xlink:href="#mdi:pan-down" x="691" y="141" height="18" width="18.0" class="combo tap glyph mdi:pan-down"/>
 </g>
 </g>
 </g>

@@ -106,9 +106,9 @@ layers:
   - $
   - '%'
   - {t: '$$mdi:menu-up$$', s: '$$mdi:mouse$$'}
-  - {t: '=', s: +}
-  - '&'
-  - {t: '-', s: _}
+  - {t: '7', s: '&'}
+  - {t: '8', s: '*'}
+  - {t: '9', s: (}
   - '@'
   - $$mdi:backspace-reverse-outline$$
   - {t: '$$mdi:backspace$$', type: backspace}
@@ -121,11 +121,11 @@ layers:
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
-  - (
-  - )
+  - '4'
+  - {t: '5', s: '%'}
+  - '6'
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
-  - {t: \, s: '|'}
   - PgUp
   - PRINTSCREEN
   - {t: '$$mdi:transfer$$', type: trans}
@@ -135,10 +135,10 @@ layers:
   - '&mkp MB5'
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
-  - +
-  - {t: '-', s: _}
-  - '{'
-  - '}'
+  - '1'
+  - '2'
+  - '3'
+  - .
   - '?'
   - PgDn
   - {t: '$$mdi:transfer$$', type: trans}
@@ -146,7 +146,7 @@ layers:
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {type: held}
-  - '*'
+  - {t: '0', s: )}
   Fn:
   - F1
   - F2

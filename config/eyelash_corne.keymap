@@ -82,6 +82,16 @@
             bindings = <&mkp RCLK>;
             key-positions = <24 25>;
         };
+
+        F1press {
+            bindings = <&kp F1>;
+            key-positions = <15 17>;
+        };
+
+        F2press {
+            bindings = <&kp F2>;
+            key-positions = <15 32>;
+        };
     };
 
     keymap {

@@ -64,7 +64,7 @@
         };
 
         RightClick {
-            bindings = <&mkp RCLK>;
+            bindings = <&mkp LCLK>;
             key-positions = <23 24>;
         };
 
@@ -76,6 +76,11 @@
         Downscroll {
             bindings = <&msc SCRL_DOWN>;
             key-positions = <36 37>;
+        };
+
+        rightcrick {
+            bindings = <&mkp RCLK>;
+            key-positions = <24 25>;
         };
     };
 

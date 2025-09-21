@@ -209,3 +209,7 @@ combos:
   k: $$mdi:pan-down$$
 - p: [24, 25]
   k: $$mdi:mouse-right-click-outline$$
+- p: [15, 17]
+  k: F1
+- p: [15, 32]
+  k: F2

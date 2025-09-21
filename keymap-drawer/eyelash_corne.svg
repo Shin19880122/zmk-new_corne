@@ -572,6 +572,18 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="798" y="74" width="28" height="26" class="combo"/>
 <use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="803" y="78" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
 </g>
+<g class="combo combopos-6">
+<path d="M196,91 l-37,0" class="combo"/>
+<path d="M196,91 l37,0" class="combo"/>
+<rect rx="6" ry="6" x="182" y="78" width="28" height="26" class="combo"/>
+<text x="196" y="91" class="combo tap">F1</text>
+</g>
+<g class="combo combopos-7">
+<path d="M196,119 l-39,-20" class="combo"/>
+<path d="M196,119 l39,20" class="combo"/>
+<rect rx="6" ry="6" x="182" y="106" width="28" height="26" class="combo"/>
+<text x="196" y="119" class="combo tap">F2</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 318)" class="layer-NUMBER">
@@ -855,6 +867,18 @@ rect.held, rect.combo.held {
 <g class="combo combopos-5">
 <rect rx="6" ry="6" x="798" y="74" width="28" height="26" class="combo"/>
 <use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="803" y="78" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+</g>
+<g class="combo combopos-6">
+<path d="M196,91 l-37,0" class="combo"/>
+<path d="M196,91 l37,0" class="combo"/>
+<rect rx="6" ry="6" x="182" y="78" width="28" height="26" class="combo"/>
+<text x="196" y="91" class="combo tap">F1</text>
+</g>
+<g class="combo combopos-7">
+<path d="M196,119 l-39,-20" class="combo"/>
+<path d="M196,119 l39,20" class="combo"/>
+<rect rx="6" ry="6" x="182" y="106" width="28" height="26" class="combo"/>
+<text x="196" y="119" class="combo tap">F2</text>
 </g>
 </g>
 </g>
@@ -1142,6 +1166,18 @@ rect.held, rect.combo.held {
 <g class="combo combopos-5">
 <rect rx="6" ry="6" x="798" y="74" width="28" height="26" class="combo"/>
 <use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="803" y="78" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+</g>
+<g class="combo combopos-6">
+<path d="M196,91 l-37,0" class="combo"/>
+<path d="M196,91 l37,0" class="combo"/>
+<rect rx="6" ry="6" x="182" y="78" width="28" height="26" class="combo"/>
+<text x="196" y="91" class="combo tap">F1</text>
+</g>
+<g class="combo combopos-7">
+<path d="M196,119 l-39,-20" class="combo"/>
+<path d="M196,119 l39,20" class="combo"/>
+<rect rx="6" ry="6" x="182" y="106" width="28" height="26" class="combo"/>
+<text x="196" y="119" class="combo tap">F2</text>
 </g>
 </g>
 </g>
@@ -1434,6 +1470,18 @@ rect.held, rect.combo.held {
 <g class="combo combopos-5">
 <rect rx="6" ry="6" x="798" y="74" width="28" height="26" class="combo"/>
 <use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="803" y="78" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+</g>
+<g class="combo combopos-6">
+<path d="M196,91 l-37,0" class="combo"/>
+<path d="M196,91 l37,0" class="combo"/>
+<rect rx="6" ry="6" x="182" y="78" width="28" height="26" class="combo"/>
+<text x="196" y="91" class="combo tap">F1</text>
+</g>
+<g class="combo combopos-7">
+<path d="M196,119 l-39,-20" class="combo"/>
+<path d="M196,119 l39,20" class="combo"/>
+<rect rx="6" ry="6" x="182" y="106" width="28" height="26" class="combo"/>
+<text x="196" y="119" class="combo tap">F2</text>
 </g>
 </g>
 </g>
